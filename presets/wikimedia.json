@@ -42,6 +42,7 @@
     ],
     "requireSpaceBeforeBinaryOperators": true,
     "requireSpaceAfterBinaryOperators": true,
+    "requireSpaceAfterComma": true,
     "disallowImplicitTypeConversion": [
         "binary",
         "string"
